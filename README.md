@@ -59,7 +59,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<h1>
+<h1 align="center">
     <img alt="Marvel" title="Marvel" src=.github\captain.jpg />
 </h1>
 
