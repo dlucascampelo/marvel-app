@@ -55,6 +55,5 @@ const styles = StyleSheet.create({
     position: "absolute",
     bottom: 2,
   },
-  login: {},
 });
 export default styles;
