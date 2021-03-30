@@ -8,7 +8,6 @@
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#memo-licença">Licença</a>
-
 </p>
 
 <p align="center">
@@ -59,5 +58,9 @@ Você pode encontrar o layout que eu fiz para esse projeto no [Figma](https://ww
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+
+<h1>
+    <img alt="Marvel" title="Marvel" src=.github\captain.jpg />
+</h1>
 
 **Data provided by Marvel. © 2014 Marvel**
