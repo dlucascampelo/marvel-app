@@ -31,7 +31,7 @@ export default function ComicsScreen({ route, navigation }) {
         resizeMode={"contain"}
         style={styles.comicImg}
         source={{
-          uri: `${data.thumbnail.path}.${data.thumbnail.extension}`,
+          uri: `${data.thumbnail.path}/portrait_incredible.${data.thumbnail.extension}`,
         }}
       />
       <Text style={styles.comicName}>{data.title}</Text>
